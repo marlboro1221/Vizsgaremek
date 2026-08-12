@@ -1,11 +1,10 @@
-# Vizsgaremek (Projekt pontosítása esetén változik)
+# Autószalon
 
-## Projekt leírása
+Autószalon
 A mi projektünk mindenféleképpen a webshopokra irányul.
 
-1. Egy egész autószalon alkalmazottjai, eladásai, lízingjei, autóbérlései illetve az autószalonban lévő összes autó adatait (gyártás, teljesítmény, eladásra kínálat(dátum,beszerzési hely),ára ). Az autószalonban lévő kialakított szerelőműhely alkalmazottjai  szakképsítés + jelenleg szerelőműhelyen lévő összes autó tulajdonosának adatai, az autó károk illetve az autók információja.(típus stb...)
+ Egy egész autószalon alkalmazottjai, eladásai, lízingjei, autóbérlései illetve az autószalonban lévő összes autó adatait (gyártás, teljesítmény, eladásra kínálat(dátum,beszerzési hely),ára ). Az autószalonban lévő kialakított szerelőműhely alkalmazottjai  szakképsítés + jelenleg szerelőműhelyen lévő összes autó tulajdonosának adatai, az autó károk illetve az autók információja.(típus stb...)
 
-2. Egy parfüm webshop ami rendelkezik üzletekkel Magyarországon. Előrendeléssel, parfümökkel illetve ápolási szerekkel foglalkozik.A projekt tartalmazza Magyarországon fellelhető összes boltot annak alkalmazottjait, raktárkészletüket, elérhetőségüket.
 
 
 ## Használt technológiák
@@ -18,8 +17,6 @@ A mi projektünk mindenféleképpen a webshopokra irányul.
 ## Csapattagok és feladatok
 Nemes Gábor (Frontend)
 Máté Csanád Benedek (Backend(Adatbázis))
-???(Adatbázis)
-Következő vizsgaremek óráig keresünk valakit adatbázisra ha nem találnánk esetleg, átvállalom én az adatbázis részt.
 
 
 ## Projekt funkciói
