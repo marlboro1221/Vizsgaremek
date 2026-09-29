@@ -1,9 +1,9 @@
-# Autószalon
+# Motorszalon
 
-Autószalon
+Motorszalon
 A mi projektünk mindenféleképpen a webshopokra irányul.
 
- Egy egész autószalon alkalmazottjai, eladásai, lízingjei, autóbérlései illetve az autószalonban lévő összes autó adatait (gyártás, teljesítmény, eladásra kínálat(dátum,beszerzési hely),ára ). Az autószalonban lévő kialakított szerelőműhely alkalmazottjai  szakképsítés + jelenleg szerelőműhelyen lévő összes autó tulajdonosának adatai, az autó károk illetve az autók információja.(típus stb...)
+ Egy egész motorszalon alkalmazottjai, eladásai, lízingjei, autóbérlései illetve az autószalonban lévő összes motor adatait (gyártás, teljesítmény, eladásra kínálat(dátum,beszerzési hely),ára ). Az szalonban lévő kialakított szerelőműhely alkalmazottjai  szakképsítés + jelenleg szerelőműhelyen lévő összes autó tulajdonosának adatai, az autó károk illetve az autók információja.(típus stb...)
 
 
 
@@ -29,6 +29,7 @@ Máté Csanád Benedek (Backend(Adatbázis))
 - Alkalmazott adatai
 - Fizetési lehetőség(ez nem biztos)
 
-## Röviden
+Moodboard.: https://www.figma.com/make/cwzCO9zjDbvXvpNfznJact/Edit-uploaded-image?fullscreen=1&t=ZjsDF7r6Nj2iYTs7-1&code-node-id=0-6
+Ez a moodboard bemutatja a vizsgánk színösszeállítását(adott eltérű színű motoroknál eltérhet a szín az alap weboldal is ezeket az összeállításokat fogja használni csak másik szín arányban.) illetve bemutatja milyen témával fog foglalkozni a weboldalunk.
 
-- A csapat még nem teljes ezek végett van a sok kérdőjel, csapattagoktól függően változik a projekt kinek milyen kapacitása illetve segítség lehetőségei vannak.
+
