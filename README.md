@@ -32,4 +32,12 @@ Máté Csanád Benedek (Backend(Adatbázis))
 Moodboard.: https://www.figma.com/make/cwzCO9zjDbvXvpNfznJact/Edit-uploaded-image?fullscreen=1&t=ZjsDF7r6Nj2iYTs7-1&code-node-id=0-6
 Ez a moodboard bemutatja a vizsgánk színösszeállítását(adott eltérű színű motoroknál eltérhet a szín az alap weboldal is ezeket az összeállításokat fogja használni csak másik szín arányban.) illetve bemutatja milyen témával fog foglalkozni a weboldalunk.
 
+https://dbdiagram.io/d/6abbe1a45869425612cd30c8
+Itt lenne a dbdiagramm megtervezve, idővel kerülhetnek be módosítások.
+
+Backend.: [vizsgaremek.zip](https://github.com/user-attachments/files/32812233/vizsgaremek.zip)
+
+
+
+
 
