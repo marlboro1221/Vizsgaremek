@@ -35,8 +35,8 @@ Ez a moodboard bemutatja a vizsgánk színösszeállítását(adott eltérű sz�
 https://dbdiagram.io/d/6abbe1a45869425612cd30c8
 Itt lenne a dbdiagramm megtervezve, idővel kerülhetnek be módosítások.
 
-Backend.: [vizsgaremek.zip](https://github.com/user-attachments/files/32812233/vizsgaremek.zip)
-Kezdetleges backend mivel, sajnos túl későn kezdtük el a vizsgafeladatot, viszont a továbbiakban felzárkózunk a többiekhez képest.
+Backend,Frontend.: [vizsgaremek.zip](https://github.com/user-attachments/files/32812233/vizsgaremek.zip)
+Kezdetleges backend,frontend mivel, sajnos túl későn kezdtük el a vizsgafeladatot, viszont a továbbiakban felzárkózunk a többiekhez képest.
 
 
 
